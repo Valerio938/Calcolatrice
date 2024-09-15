@@ -1,0 +1,14 @@
+C:\Users\LexarLight\source\repos\CalcolatriceTask\bin\Debug\net8.0\CalcolatriceTask.exe
+C:\Users\LexarLight\source\repos\CalcolatriceTask\bin\Debug\net8.0\CalcolatriceTask.deps.json
+C:\Users\LexarLight\source\repos\CalcolatriceTask\bin\Debug\net8.0\CalcolatriceTask.runtimeconfig.json
+C:\Users\LexarLight\source\repos\CalcolatriceTask\bin\Debug\net8.0\CalcolatriceTask.dll
+C:\Users\LexarLight\source\repos\CalcolatriceTask\bin\Debug\net8.0\CalcolatriceTask.pdb
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.AssemblyInfoInputs.cache
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.AssemblyInfo.cs
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.csproj.CoreCompileInputs.cache
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.dll
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\refint\CalcolatriceTask.dll
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.pdb
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\CalcolatriceTask.genruntimeconfig.cache
+C:\Users\LexarLight\source\repos\CalcolatriceTask\obj\Debug\net8.0\ref\CalcolatriceTask.dll
